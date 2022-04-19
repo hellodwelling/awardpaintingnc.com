@@ -1,1 +1,3 @@
-disallow: /index
+User-agent: *
+Disallow: 
+Sitemap: https://awardpaintingnc.com/sitemap.xml
